@@ -16,5 +16,6 @@ public class BoolVariable : ScriptableObject
     {
         currentValue = DefaultValue;
         Debug.Log("useless line");
+        Debug.Log("useless line2");
     }
 }
